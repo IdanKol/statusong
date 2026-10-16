@@ -28,6 +28,16 @@
 <img src="docs/features.gif" width="100%" alt="Live lyrics, on Discord, Search and Sing, Identify, Effects" />
 </div>
 
+### 🎧 Works with what you already use
+
+<div align="center">
+
+**🎵 Spotify** · **🍎 Apple Music** · **▶️ YouTube** · **🎧 TIDAL** · **🎶 Deezer** · **🛒 Amazon Music** · **🌐 any website or app that plays music**
+
+</div>
+
+If it shows up in the Windows media controls (the little player in the volume pop-up), Statusong sees it. Video titles like *"Artist - Song [Official Video]"* are cleaned up, so the lyrics are found for YouTube too. Not sure what's playing? Press **Identify a Song** and play it near your mic.
+
 <br/>
 
 ## How it looks
