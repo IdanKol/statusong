@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0b12,35:0f3d2a,70:0f2a3d,100:0b0b12&text=Statusong&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Your%20Discord%20status%20sings%20along&descAlignY=60&descSize=20" width="100%"/>
+<img src="docs/hero.gif" width="100%" alt="Statusong: your Discord status sings along" />
 
 [![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-.exe-2bf08a?style=for-the-badge&logo=windows11&logoColor=04130a&labelColor=0b0b12)](https://github.com/IdanKol/statusong/releases/latest/download/Statusong-Setup.exe)
 [![Join our Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/R53rh6RpzG)
@@ -28,13 +28,17 @@
 
 ## What's inside
 
-| | |
-|:---|:---|
-| 🎵 **Live synced lyrics** | Free, right in the app. |
-| 💬 **On your Discord profile** | Pro ($7, once). |
-| 🎤 **Search & Sing** | Find any song with its cover and sing along. |
-| 🎧 **Identify a Song** | Play it near your mic and Statusong names it. |
-| 🌹 **Effects** | Word-by-word glow and scenes (Pro). |
+<div align="center">
+<img src="docs/features.gif" width="100%" alt="Live lyrics, on Discord, Search and Sing, Identify, Effects" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="docs/trailer.gif" width="860" alt="The Statusong trailer" />
+</div>
+
+<br/>
 
 ## Your privacy
 
