@@ -36,7 +36,7 @@
 
 </div>
 
-If it shows up in the Windows media controls (the little player in the volume pop-up), Statusong sees it. Video titles like *"Artist - Song [Official Video]"* are cleaned up, so the lyrics are found for YouTube too. Not sure what's playing? Press **Identify a Song** and play it near your mic.
+If it shows up in the Windows media controls (the little player in the volume pop-up), Statusong sees it. Video titles like *"Artist - Song [Official Video]"* are cleaned up, so the lyrics are found for YouTube too. Not sure what's playing? Press **Identify a Song**, play it near your mic, and Statusong names it, like Shazam but built in.
 
 <br/>
 
