@@ -4,11 +4,11 @@
 
 <br/>
 
-<a href="https://github.com/IdanKol/statusong/releases/latest/download/Statusong-Setup.exe"><img src="docs/btn-download.gif" height="84" alt="Download for Windows" /></a>
+<a href="https://github.com/IdanKol/statusong/releases/latest/download/Statusong-Setup.exe"><img src="docs/btn-download.gif" height="60" alt="Download for Windows" /></a>
 &nbsp;
-<a href="https://discord.gg/R53rh6RpzG"><img src="docs/btn-discord.png" height="84" alt="Join our Discord" /></a>
+<a href="https://discord.gg/R53rh6RpzG"><img src="docs/btn-discord.png" height="60" alt="Join our Discord" /></a>
 &nbsp;
-<a href="https://statusong.com"><img src="docs/btn-website.png" height="84" alt="statusong.com" /></a>
+<a href="https://statusong.com"><img src="docs/btn-website.png" height="60" alt="statusong.com" /></a>
 
 <br/>
 
