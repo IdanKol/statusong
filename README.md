@@ -81,9 +81,11 @@ Show the lyric as a **Listening to Statusong** card, or right in your status bub
 
 <br/>
 
-## Your privacy
+## 🔒 Your privacy
 
-**We never take your token. Your information stays on your computer. We have no access to it.**
+- 🚫 **We never take your token.**
+- 💻 **Your information stays on your computer.**
+- 🙈 **We have no access to it.**
 
 <br/>
 
