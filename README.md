@@ -18,6 +18,12 @@
 
 <br/>
 
+<div align="center">
+<img src="docs/flow.gif" width="100%" alt="Play anything, Statusong finds the lyric, your friends see it live on Discord" />
+</div>
+
+<br/>
+
 ## What is it?
 
 **Statusong** shows the lyric you're hearing right now on your **Discord status**: live, line by line, in time with the music. It works with Spotify, Apple Music, YouTube and almost anything else that plays music on your PC.
@@ -96,6 +102,14 @@ Show the lyric as a **Listening to Statusong** card, or right in your status bub
 - 🚫 **We never take your token.**
 - 💻 **Your information stays on your computer.**
 - 🙈 **We have no access to it.**
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/IdanKol/statusong"><img src="docs/star.gif" width="100%" alt="Like Statusong? Give it a star" /></a>
+<br/>
+<a href="https://github.com/IdanKol/statusong/stargazers"><img src="https://img.shields.io/github/stars/IdanKol/statusong?style=for-the-badge&logo=github&color=ffc43c&labelColor=0b0b12" alt="GitHub stars" /></a>
+</div>
 
 <br/>
 
