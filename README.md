@@ -20,7 +20,7 @@
 
 ## What is it?
 
-**Statusong** shows the lyric you're hearing right now on your **Discord status**: live, line by line, in time with the music. It works with Spotify, Apple Music and your browser.
+**Statusong** shows the lyric you're hearing right now on your **Discord status**: live, line by line, in time with the music. It works with Spotify, Apple Music, YouTube and almost anything else that plays music on your PC.
 
 <br/>
 
