@@ -32,7 +32,7 @@
 
 <div align="center">
 
-**🎵 Spotify** · **🍎 Apple Music** · **▶️ YouTube** · **🎧 TIDAL** · **🎶 Deezer** · **🛒 Amazon Music** · **🌐 any website or app that plays music**
+<img src="docs/works-with.gif" width="100%" alt="Works with Spotify, Apple Music, YouTube, TIDAL, Deezer, SoundCloud and any site or app" />
 
 </div>
 
