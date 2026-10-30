@@ -83,6 +83,10 @@ Show the lyric as a **Listening to Statusong** card, or right in your status bub
 
 ## Download
 
+<div align="center">
+<img src="docs/get-started.gif" width="860" alt="Get started: download, run it, play a song, your friends see the lyric" />
+</div>
+
 1. Press **Download for Windows** above, or get `Statusong-Setup.exe` from [Releases](https://github.com/IdanKol/statusong/releases/latest).
 2. Run it. It installs in a few seconds.
 3. Play a song. The lyrics show up by themselves.
