@@ -89,6 +89,27 @@ Show the lyric as a **Listening to Statusong** card, or right in your status bub
 
 > The installer is new and not signed yet. If Windows shows a warning, press **More info**, then **Run anyway**.
 
+### Install from the terminal
+
+Prefer a command? Both download the latest installer and start it.  
+**PowerShell**
+
+```powershell
+$ProgressPreference = 'SilentlyContinue'; irm https://github.com/IdanKol/statusong/releases/latest/download/Statusong-Setup.exe -OutFile "$env:TEMP\Statusong-Setup.exe"; Start-Process "$env:TEMP\Statusong-Setup.exe"
+```
+
+**CMD**
+
+```bat
+curl -L -o "%TEMP%\Statusong-Setup.exe" https://github.com/IdanKol/statusong/releases/latest/download/Statusong-Setup.exe && start "" "%TEMP%\Statusong-Setup.exe"
+```
+
+Want to check the file first? Compare its SHA-256 with the one in the [release notes](https://github.com/IdanKol/statusong/releases/latest):
+
+```powershell
+(Get-FileHash "$env:TEMP\Statusong-Setup.exe").Hash
+```
+
 <br/>
 
 <div align="center">
