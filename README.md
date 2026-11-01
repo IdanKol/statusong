@@ -46,6 +46,15 @@ If it shows up in the Windows media controls (the little player in the volume po
 
 <br/>
 
+## See it in action
+
+<div align="center">
+<img src="docs/walkthrough.gif" width="300" alt="A quick look inside Statusong: live synced lyrics for your Discord status, and the design settings" />
+<br/><sub>A quick look inside the app.</sub>
+</div>
+
+<br/>
+
 ## How it looks
 
 <div align="center">
