@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="docs/hero.gif" width="100%" alt="Statusong: your Discord status sings along" />
+<img src="docs/hero.gif" width="100%" alt="StatuSong: your Discord status sings along" />
 
 <br/>
 
 <a href="https://github.com/IdanKol/statusong/releases/latest/download/Statusong-Setup.exe"><img src="docs/btn-download.gif" height="60" alt="Download for Windows" /></a>
 &nbsp;
-<a href="https://discord.gg/R53rh6RpzG"><img src="docs/btn-discord.png" height="60" alt="Join our Discord" /></a>
+<a href="https://discord.gg/statusong"><img src="docs/btn-discord.png" height="60" alt="Join our Discord" /></a>
 &nbsp;
 <a href="https://statusong.com"><img src="docs/btn-website.png" height="60" alt="statusong.com" /></a>
 
@@ -19,14 +19,26 @@
 <br/>
 
 <div align="center">
-<img src="docs/flow.gif" width="100%" alt="Play anything, Statusong finds the lyric, your friends see it live on Discord" />
+<img src="docs/flow.gif" width="100%" alt="Play anything, StatuSong finds the lyric, your friends see it live on Discord" />
 </div>
 
 <br/>
 
 ## What is it?
 
-**Statusong** shows the lyric you're hearing right now on your **Discord status**: live, line by line, in time with the music. It works with Spotify, Apple Music, YouTube and almost anything else that plays music on your PC.
+**StatuSong** is free software for Windows that syncs your Spotify lyrics to your **Discord status**, live, and can even show them on your desktop. It shows the lyric you're hearing right now: line by line, in time with the music. It works with Spotify, Apple Music, YouTube and almost anything else that plays music on your PC.
+
+<br/>
+
+## New in 1.5
+
+- **Kinetic lyrics:** the words pile up as they are sung, and the biggest word fills the screen.
+- **A colour for every word:** White, Album colours, Sunset, Ocean, Neon or Rainbow.
+- **Lyrics on your desktop (Windows 11):** over your wallpaper, under your icons, gone when the music stops. Off until you switch it on.
+- **Cinema clock position** (left, middle or right, top or bottom) and a top bar that slides in smoothly.
+- No token needed: pick Rich Presence and your lyric shows on a "Listening to StatuSong" card. The status line is optional.
+
+More on [statusong.com/news](https://statusong.com/news).
 
 <br/>
 
@@ -42,14 +54,14 @@
 
 </div>
 
-If it shows up in the Windows media controls (the little player in the volume pop-up), Statusong sees it. Video titles like *"Artist - Song [Official Video]"* are cleaned up, so the lyrics are found for YouTube too. Not sure what's playing? Press **Identify a Song**, play it near your mic, and Statusong names it, like Shazam but built in.
+If it shows up in the Windows media controls (the little player in the volume pop-up), StatuSong sees it. Video titles like *"Artist - Song [Official Video]"* are cleaned up, so the lyrics are found for YouTube too. Not sure what's playing? Press **Identify a Song**, play it near your mic, and StatuSong names it, like Shazam but built in.
 
 <br/>
 
 ## See it in action
 
 <div align="center">
-<img src="docs/walkthrough.gif" width="300" alt="A quick look inside Statusong: live synced lyrics for your Discord status, and the design settings" />
+<img src="docs/walkthrough.gif" width="300" alt="A quick look inside StatuSong: live synced lyrics for your Discord status, and the design settings" />
 <br/><sub>A quick look inside the app.</sub>
 </div>
 
@@ -58,7 +70,7 @@ If it shows up in the Windows media controls (the little player in the volume po
 ## How it looks
 
 <div align="center">
-<img src="docs/app-main.png" width="88%" alt="The Statusong app: cover, live lyric and what your friends see" />
+<img src="docs/app-main.png" width="88%" alt="The StatuSong app: cover, live lyric and what your friends see" />
 <br/><sub>The lyric lights up word by word, and the card shows what your friends see.</sub>
 </div>
 
@@ -82,7 +94,7 @@ Pick the scene behind your lyrics, the size of the text, and which effects play.
 
 ### 💬 Your friends, your choice
 
-Show the lyric as a **Listening to Statusong** card, or right in your status bubble. You pick, and you can switch any time.
+Show the lyric as a **Listening to StatuSong** card, or right in your status bubble. You pick, and you can switch any time.
 
 <div align="center">
 <img src="docs/app-compare.png" width="88%" alt="Rich Presence or Status Line" />
@@ -126,7 +138,7 @@ Want to check the file first? Compare its SHA-256 with the one in the [release n
 <br/>
 
 <div align="center">
-<img src="docs/trailer.gif" width="860" alt="The Statusong trailer" />
+<img src="docs/trailer.gif" width="860" alt="The StatuSong trailer" />
 </div>
 
 <br/>
@@ -140,7 +152,7 @@ Want to check the file first? Compare its SHA-256 with the one in the [release n
 <br/>
 
 <div align="center">
-<a href="https://github.com/IdanKol/statusong"><img src="docs/star.gif" width="100%" alt="Like Statusong? Give it a star" /></a>
+<a href="https://github.com/IdanKol/statusong"><img src="docs/star.gif" width="100%" alt="Like StatuSong? Give it a star" /></a>
 <br/>
 <a href="https://github.com/IdanKol/statusong/stargazers"><img src="https://img.shields.io/github/stars/IdanKol/statusong?style=for-the-badge&logo=github&color=ffc43c&labelColor=0b0b12" alt="GitHub stars" /></a>
 </div>
@@ -149,9 +161,9 @@ Want to check the file first? Compare its SHA-256 with the one in the [release n
 
 ## About
 
-Statusong is made by **iDAN** ([@idan2133](https://discord.gg/R53rh6RpzG) on Discord). Questions, ideas or feedback? Come say hi in the [Discord server](https://discord.gg/R53rh6RpzG). Refunds within 7 days: just send a DM.
+StatuSong is made by **iDAN** ([@idan2133](https://discord.gg/statusong) on Discord). Questions, ideas or feedback? Come say hi in the [Discord server](https://discord.gg/statusong). Refunds within 7 days: just send a DM.
 
 <div align="center">
 <br/>
-<sub>© Statusong. All rights reserved. Not affiliated with Spotify, Apple, YouTube or Discord. Lyrics via <a href="https://lrclib.net">LRCLIB</a>.</sub>
+<sub>© StatuSong. All rights reserved. Not affiliated with Spotify, Apple, YouTube or Discord. Lyrics via <a href="https://lrclib.net">LRCLIB</a>.</sub>
 </div>
